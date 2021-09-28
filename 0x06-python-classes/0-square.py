@@ -1,5 +1,11 @@
 #!/usr/bin/python3
+""" This module creates an empty class Square that defines a square
+See:
+    ./0-main.py test file
+"""
+
+
 class Square:
-    """Class Square that defines a square.
+    """ Empty class Square using pass
     """
     pass
